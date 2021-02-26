@@ -1,6 +1,6 @@
 # [Wonderland](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland#Synopsis)
 
-[![Build Status](https://travis-ci.com/antarcticatec/wonderland.svg?branch=master)](https://travis-ci.com/antarcticatec/wonderland)
+[![Build Status](https://travis-ci.com/antarcticatec/wonderland.svg?token=zHQJcD49sfE5YxpWbG1a&branch=master)](https://travis-ci.com/antarcticatec/wonderland)
 
 ## [Down the Rabbit Hole](https://www.gutenberg.org/files/11/11-h/11-h.htm#chap01)
 
